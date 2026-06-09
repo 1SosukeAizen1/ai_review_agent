@@ -1,0 +1,14 @@
+# Secrets
+.env
+secrets.txt
+
+# Local AI preferences
+CLAUDE.local.md
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+.pytest_cache/
